@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://smartisanttt.github.io/atom.xml" rel="self"/>
   <link href="http://smartisanttt.github.io/"/>
-  <updated>2016-03-27T18:01:15-04:00</updated>
+  <updated>2016-03-27T18:15:08-04:00</updated>
   <id>http://smartisanttt.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Cao Ni Mama]]></title>
+    <link href="http://smartisanttt.github.io/blog/2016/03/27/cao-ni-mama/"/>
+    <updated>2016-03-27T18:12:26-04:00</updated>
+    <id>http://smartisanttt.github.io/blog/2016/03/27/cao-ni-mama</id>
+    <content type="html"><![CDATA[<h3>niasdasdadasdfanf;sandfsfsafn;asfn</h3>
+
+<h1>ansdiasdasndklasdlkadlkasfkljfljlsdjfkljslkdjfklsjfjalksjdflkjsdklfjksdjflasafdsdfsadfad</h1>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
